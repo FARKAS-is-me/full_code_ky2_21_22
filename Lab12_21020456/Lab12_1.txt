@@ -1,0 +1,14 @@
+
+Nhap vao tu so: 3
+Nhap vao mau so: 4
+Nhap vao tu so: 1
+Nhap vao mau so: 4Phan so a: 3/4
+Phan so b: 1/4
+
+Tong phan so: 1/1
+
+Hieu phan so: 1/2
+
+Tich phan so: 3/16
+
+Thuong phan so: 3/1
